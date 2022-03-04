@@ -1,0 +1,14 @@
+#footer {
+    font-size: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    text-align: center;
+    padding: 0px;
+    color: brown;
+    background-color:whitesmoke;
+}
+
+.blue-color {
+    color: blue;   
+}
