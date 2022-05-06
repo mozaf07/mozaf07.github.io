@@ -48,3 +48,18 @@ a {
 * {
     border: 2px solid red;
 }
+
+/* Download style button */
+.btn {
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: royalblue;
+}
