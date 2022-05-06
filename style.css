@@ -43,11 +43,6 @@ a {
     text-align: center;
 }
 
-/* this makes blocks on every item from page
-
-* {
-    border: 2px solid red;
-}
 
 /* Download style button */
 .btn {
@@ -62,4 +57,27 @@ a {
 /* Darker background on mouse-over */
 .btn:hover {
     background-color: royalblue;
+}
+
+.menu-btn {
+    background-color: #cc0000;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.menu-btn:hover {
+    background-color: #ff1a1a; 
+}
+
+.menu {
+    display:inline-block;
+    margin-bottom: 10px;
+}
+
+.body-content {
+    text-align:center;
+    margin-top: 10px;
 }
