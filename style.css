@@ -71,6 +71,21 @@ a {
     background-color: #4244b3; 
 }
 
+/* Orar page button */
+.menu-btn-orar {
+    background-color: #cc0000;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.menu-btn-orar:hover {
+    background-color: #4244b3; 
+}
+
 .menu {
     display:inline-block;
     margin-bottom: 10px;
